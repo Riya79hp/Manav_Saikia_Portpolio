@@ -1,0 +1,12 @@
+export { default as Navigation } from "./Navigation";
+export { default as Footer } from "./Footer";
+export { default as Main } from "./Main";
+export { default as Expertise } from "./Expertise";
+export { default as Timeline } from "./Timeline";
+export { default as Project } from "./Project";
+export { default as Contact } from "./Contact";
+export { default as NotFoundPage } from "./NotFoundPage";
+export { default as Longform_component } from "./Longform_component";
+export { default as Motion_Graphics } from "./motion_graphics";
+export { default as Shortform_Component } from "./shortform_component";
+export { default as Gfx_Component } from "./Gfx_Component";
