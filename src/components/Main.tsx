@@ -14,7 +14,7 @@ function Main() {
         <div className="content">
           <div className="social_icons">
             <a href="https://www.instagram.com/metaverse_manav/" target="_blank" rel="noreferrer"><InstagramIcon/></a>
-            <a href="#" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://www.linkedin.com/in/manav-saikia-773331340/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Manav Saikia</h1>
           <p>Video Editor | Graphic Desginer | Cinematographer | Social Media Manager</p>
