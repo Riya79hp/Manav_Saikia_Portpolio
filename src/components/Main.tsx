@@ -20,8 +20,8 @@ function Main() {
           <p>Video Editor | Graphic Desginer | Cinematographer | Social Media Manager</p>
 
           <div className="mobile_social_icons">
-            <a href="#" target="_blank" rel="noreferrer"><InstagramIcon/></a>
-            <a href="#" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://www.instagram.com/metaverse_manav/" target="_blank" rel="noreferrer"><InstagramIcon/></a>
+            <a href="https://www.linkedin.com/in/manav-saikia-773331340/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
         </div>
       </div>
